@@ -216,7 +216,14 @@ data/raw/*.cha
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
+
 data/raw/Brown
+
 data/processed/sessions.csv
 data/processed/sessions_clean.csv
+data/processed/sessions_features.csv
+data/processed/SVD_matrix.npy
+
 figures/preprocessing_comparison.png
+figures/mindf_vocabulary_tradeoff.png
+
