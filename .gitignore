@@ -216,3 +216,5 @@ data/raw/*.cha
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
+data/raw/Brown
+data/processed/sessions.csv
