@@ -218,3 +218,5 @@ data/raw/*.cha
 __pycache__/
 data/raw/Brown
 data/processed/sessions.csv
+data/processed/sessions_clean.csv
+figures/preprocessing_comparison.png
